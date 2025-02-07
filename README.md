@@ -6,7 +6,7 @@ Using Python, perform an exploratory data analysis of the CCM Computing Courses 
 You will be following the Exploratory Data Analysis process to provide these recommendations over the next month.  There are four parts of the project that will be due in separate assignments.
 
 #### Part 1
-* Data Study Questions - Formulate the data study questions that you will answer in your analysis.  You will also be assigned a few questions to answer by your instructor. *
+Data Study Questions - Formulate the data study questions that you will answer in your analysis.  You will also be assigned a few questions to answer by your instructor. 
 
 #### Part 2
 Data Exploration and Cleaning - The datasets provided are messy.  You will explore the datasets, first in Excel. Then you use Python to bring in your datasets into a your coding environment, and explore the datasets further to identify what cleaning actions you will perform on the data.
