@@ -1,7 +1,7 @@
 # Project1
  College Recruitment Improvement Study
 
-###Goal###:
+### Goal ###:
 Using Python, perform an exploratory data analysis of the CCM Computing Courses Entry Surveys.  Provide insights that can help the Information Technologies department increase enrollment in computing classes.
 You will be following the Exploratory Data Analysis process to provide these recommendations over the next month.  There are four parts of the project that will be due in separate assignments.
 Part 1.  Data Study Questions - Formulate the data study questions that you will answer in your analysis.  You will also be assigned a few questions to answer by your instructor. 
